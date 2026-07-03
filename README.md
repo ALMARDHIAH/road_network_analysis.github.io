@@ -10,3 +10,9 @@ ___
     - Sub-item
 1. First
 2. Second
+![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/)
+[This text links to gfg](https://write.geeksforgeeks.org/)
+Line 1  
+Line 2
+Paragraph 1
+Paragraph 2
