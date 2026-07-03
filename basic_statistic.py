@@ -1,7 +1,7 @@
 import osmnx as ox
 import matplotlib.pyplot as plt
 
-# Memuat turun data georuang daripada OSM
+# Downloading geospatial data from OSM
 graf = ox.graph_from_place(
 “putrajaya”,
 network_type='drive',
