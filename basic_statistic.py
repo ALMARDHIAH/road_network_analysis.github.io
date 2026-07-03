@@ -7,8 +7,8 @@ graf = ox.graph_from_place(
 network_type='drive',
 simplify=True)
 
-# Mengunjurkan graf berdasarkan UTM
+# Projecting the graph based on UTM
 graf_proj=ox.project_graph(graf)
 
-# Mendapatkan statistik deskriptif rangkaian
+# Getting the descriptive statistics of the network
 ox.basic_stats(graf_proj)
