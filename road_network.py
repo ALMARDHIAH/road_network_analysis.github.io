@@ -1,19 +1,19 @@
 import osmnx as ox
 import matplotlib.pyplot as plt
 
-# Downloading geospatial data from OSM
+# Memuat turun data georuang daripada OSM
 graf = ox.graph_from_place(
 “putrajaya”,
 network_type='drive',
 simplify=True)
 
-# Projecting the graph based on UTM
+# Mengunjurkan graf berdasarkan UTM
 graf_proj=ox.project_graph(graf)
 
-# Downloading GeoDataFrame of nodes and edges
+# Memuat turun GeoDataFrame bucu dan tepi rangkaian
 bucu, tepi = ox.graph_to_gdfs(graf_proj)
 
-# Plotting the network
+# Memplot rangkaian
 fig, ax = ox.plot_graph(
     graf_proj,
     bgcolor='white',
