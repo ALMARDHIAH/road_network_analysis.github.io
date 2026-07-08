@@ -36,4 +36,4 @@ At the end of this project, we discovered
 4. **Strategic routes** lies on **Lebuh Perdana Barat**, **Persiaran Sultan Sallahuddin Abdul Aziz Shah** and **Lebuh Perdana Timur**.
 
 ## Conclusion
-Overall, these findings suggest that Putrajaya's road network is well connected and provides balanced connectivity, although accessibility remains higher in the central area than at the periphery.
+Overall, these findings suggest that Putrajaya's road network is **well connected** and provides **balanced connectivity**, although **accessibility remains higher in the central area** than at the periphery.
