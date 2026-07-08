@@ -21,3 +21,7 @@ In early 2001, the **Federal Administrative Centre of Malaysia** were **relocate
 ## Scope of Study
 
 This study focused on [Putrajaya](http://nominatim.openstreetmap.org/ui/search.html?q=putrajaya) roads limited to **driveways** only.
+
+## Methodology
+
+![Methodology](methodology.png)
